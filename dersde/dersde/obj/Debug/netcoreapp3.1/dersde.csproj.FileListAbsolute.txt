@@ -1,0 +1,13 @@
+/Users/khayalmammadzada/Desktop/newfolder/dersde/dersde/obj/Debug/netcoreapp3.1/dersde.csproj.AssemblyReference.cache
+/Users/khayalmammadzada/Desktop/newfolder/dersde/dersde/obj/Debug/netcoreapp3.1/dersde.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khayalmammadzada/Desktop/newfolder/dersde/dersde/obj/Debug/netcoreapp3.1/dersde.AssemblyInfoInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/dersde/dersde/obj/Debug/netcoreapp3.1/dersde.AssemblyInfo.cs
+/Users/khayalmammadzada/Desktop/newfolder/dersde/dersde/obj/Debug/netcoreapp3.1/dersde.csproj.CoreCompileInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/dersde/dersde/bin/Debug/netcoreapp3.1/dersde.deps.json
+/Users/khayalmammadzada/Desktop/newfolder/dersde/dersde/bin/Debug/netcoreapp3.1/dersde.runtimeconfig.json
+/Users/khayalmammadzada/Desktop/newfolder/dersde/dersde/bin/Debug/netcoreapp3.1/dersde.runtimeconfig.dev.json
+/Users/khayalmammadzada/Desktop/newfolder/dersde/dersde/bin/Debug/netcoreapp3.1/dersde.dll
+/Users/khayalmammadzada/Desktop/newfolder/dersde/dersde/bin/Debug/netcoreapp3.1/dersde.pdb
+/Users/khayalmammadzada/Desktop/newfolder/dersde/dersde/obj/Debug/netcoreapp3.1/dersde.dll
+/Users/khayalmammadzada/Desktop/newfolder/dersde/dersde/obj/Debug/netcoreapp3.1/dersde.pdb
+/Users/khayalmammadzada/Desktop/newfolder/dersde/dersde/obj/Debug/netcoreapp3.1/dersde.genruntimeconfig.cache

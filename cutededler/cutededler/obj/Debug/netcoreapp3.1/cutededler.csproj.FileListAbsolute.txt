@@ -1,0 +1,5 @@
+/Users/khayalmammadzada/Desktop/newfolder/cutededler/cutededler/obj/Debug/netcoreapp3.1/cutededler.csproj.AssemblyReference.cache
+/Users/khayalmammadzada/Desktop/newfolder/cutededler/cutededler/obj/Debug/netcoreapp3.1/cutededler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khayalmammadzada/Desktop/newfolder/cutededler/cutededler/obj/Debug/netcoreapp3.1/cutededler.AssemblyInfoInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/cutededler/cutededler/obj/Debug/netcoreapp3.1/cutededler.AssemblyInfo.cs
+/Users/khayalmammadzada/Desktop/newfolder/cutededler/cutededler/obj/Debug/netcoreapp3.1/cutededler.csproj.CoreCompileInputs.cache

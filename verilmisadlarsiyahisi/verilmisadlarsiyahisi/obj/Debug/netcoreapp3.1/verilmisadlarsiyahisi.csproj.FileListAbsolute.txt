@@ -1,0 +1,5 @@
+/Users/khayalmammadzada/Desktop/newfolder/verilmisadlarsiyahisi/verilmisadlarsiyahisi/obj/Debug/netcoreapp3.1/verilmisadlarsiyahisi.csproj.AssemblyReference.cache
+/Users/khayalmammadzada/Desktop/newfolder/verilmisadlarsiyahisi/verilmisadlarsiyahisi/obj/Debug/netcoreapp3.1/verilmisadlarsiyahisi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khayalmammadzada/Desktop/newfolder/verilmisadlarsiyahisi/verilmisadlarsiyahisi/obj/Debug/netcoreapp3.1/verilmisadlarsiyahisi.AssemblyInfoInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/verilmisadlarsiyahisi/verilmisadlarsiyahisi/obj/Debug/netcoreapp3.1/verilmisadlarsiyahisi.AssemblyInfo.cs
+/Users/khayalmammadzada/Desktop/newfolder/verilmisadlarsiyahisi/verilmisadlarsiyahisi/obj/Debug/netcoreapp3.1/verilmisadlarsiyahisi.csproj.CoreCompileInputs.cache
